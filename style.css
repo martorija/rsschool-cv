@@ -4,7 +4,20 @@ html {
     font-size: 40px;
     font-family: Arial, sans-serif;
   }
+img{
+  width: 50%;
+  height: 50%;
+  margin-left: 30%;
+  margin-top: 10%; 
+} 
+.columns {
+	white-space: nowrap;
+}
 .myfoto{
-  width: 5px;
-  height: 25px;
+  width: 20%;
+}
+.info, .myfoto {
+	display: inline-block;
+	vertical-align: top;
+	background: #fff;
 }
