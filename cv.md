@@ -1,4 +1,4 @@
-![my foto](D:\rs_school\rsschool-cv\foto.jpg)
+![my foto](./foto.jpg)
 **#Maria Danisman**
 **###Junior Frontend Developer**
 **####Contact information**
